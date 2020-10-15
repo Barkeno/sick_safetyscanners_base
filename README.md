@@ -1,4 +1,4 @@
-# Sick_Safetyscanners_Base CPP Driver
+# Sick_Safetyscanners_Base CPP Driver（Without ROS）
 
 ## Table of contents
 
